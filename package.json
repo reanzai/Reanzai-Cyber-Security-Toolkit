@@ -1,0 +1,43 @@
+{
+  "name": "reanzai-security",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 192.168.1.109 -p 3000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "axios": "^1.6.2",
+    "bootstrap": "^5.3.2",
+    "chart.js": "^4.4.8",
+    "crypto-js": "^4.2.0",
+    "dns": "^0.2.2",
+    "net": "^1.0.2",
+    "next": "14.0.4",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.9.1",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^18.2.0",
+    "react-syntax-highlighter": "^15.5.0",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "@types/node": "^20.10.4",
+    "@types/react": "^18.2.45",
+    "autoprefixer": "^9.8.8",
+    "eslint": "^8.55.0",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^7.0.39",
+    "postcss-import": "^12.0.1",
+    "tailwindcss": "^4.0.13",
+    "typescript": "^5.3.3"
+  }
+}
