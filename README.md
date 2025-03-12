@@ -172,4 +172,4 @@ Bu, MIT Lisansı şartlarına göre serbestçe kullanılabilen, değiştirilebil
 - Açık Kaynak Topluluğu 
 
 
-https://i.imgur.com/rXQEcfl_d.webp?maxwidth=760&fidelity=grand
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/dDC6O1U" data-context="false" ><a href="//imgur.com/a/dDC6O1U"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
