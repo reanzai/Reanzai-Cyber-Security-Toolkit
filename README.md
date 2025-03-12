@@ -33,7 +33,7 @@ Reanzai Cyber Security Toolkit is a comprehensive suite of security tools design
 #### Installation
 ```bash
 # Clone repository
-git clone https://github.com/reanzai/cyber-security-toolkit.git
+git clone https://github.com/reanzai/Reanzai-Cyber-Security-Toolkit.git
 
 # Navigate to project directory
 cd cyber-security-toolkit
