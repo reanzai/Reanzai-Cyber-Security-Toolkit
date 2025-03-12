@@ -170,3 +170,6 @@ Bu, MIT Lisansı şartlarına göre serbestçe kullanılabilen, değiştirilebil
 - Next.js Ekibi
 - React Bootstrap Ekibi
 - Açık Kaynak Topluluğu 
+
+
+https://i.imgur.com/rXQEcfl_d.webp?maxwidth=760&fidelity=grand
