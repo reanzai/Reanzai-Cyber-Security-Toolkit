@@ -112,7 +112,7 @@ Reanzai Siber Güvenlik Araçları, ağ analizi, zafiyet değerlendirmesi ve gü
 #### Kurulum
 ```bash
 # Repoyu klonla
-git clone https://github.com/reanzai/cyber-security-toolkit.git
+git clone https://github.com/reanzai/Reanzai-Cyber-Security-Toolkit
 
 # Proje dizinine git
 cd cyber-security-toolkit
